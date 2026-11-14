@@ -229,17 +229,3 @@ Include a high-resolution image of the actual completed circuit, clearly labelli
 The schematic screenshot shows a transient command written as `.tran 10u 0.1`. Confirm the final simulator settings and record the actual stop time and maximum time step used. The AC sweep range has not yet been supplied.
 
 ---
-
-## References
-1. KiCad documentation and ngspice simulation documentation (cite the versions and access date actually used).
-2. Texas Instruments (or the relevant manufacturer), LM741 operational amplifier datasheet (use the datasheet matching the model used).
-3. Any course notes or textbooks used for RC filter and operational-amplifier equations.
-
----
-
-## Before Final Submission – Checklist
-- [ ] Replace personal/team placeholders (course, batch, team members, date).
-- [ ] Verify the exact schematic topology and component list.
-- [ ] Do not enter unmeasured simulated cutoff, gain, bandwidth, or error values.
-- [ ] Add the required KiCad plots (Figures 2.1–2.4, 3.1–3.4).
-- [ ] Update the report after the remaining project stages are completed.
