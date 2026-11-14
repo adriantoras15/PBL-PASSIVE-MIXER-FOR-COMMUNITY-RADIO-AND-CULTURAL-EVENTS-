@@ -12,12 +12,12 @@
 | Department | Electronics, St Aloysius Deemed to be University, Mangaluru |
 | Semester / Batch |3RD SEM ECE |
 | Faculty Guide | Mr Vijay Ganesh, Dr Glenson Toney, Mr Tenson Jose (Dept of ECE) |
-| Team members | 
-              |1||RIMSHA FATHIMA|
-              |2| |MOHAMMED TAUHEED| 
-              |3| |HENSON PINTO|
-              |4| |HANEEZ K M|
-
+| Team members  
+              1)RIMSHA FATHIMA
+              2) |MOHAMMED TAUHEED
+              3) |HENSON PINTO
+              4) |HANEEZ K M
+|
 
 ---
 
