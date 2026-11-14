@@ -8,12 +8,15 @@
 
 | Field | Details |
 |---|---|
-| Course | ________________ |
+| Course | BTECH ECE |
 | Department | Electronics, St Aloysius Deemed to be University, Mangaluru |
-| Semester / Batch | ________________ |
+| Semester / Batch |3RD SEM ECE |
 | Faculty Guide | Mr Vijay Ganesh, Dr Glenson Toney, Mr Tenson Jose (Dept of ECE) |
-| Team members | ________________ |
-| Date of submission | ________________ |
+| Team members | RIMSHA FATHIMA
+MOHAMMED TAUHEED
+HENSON PINTO
+HANEEZ K M |
+
 
 ---
 
